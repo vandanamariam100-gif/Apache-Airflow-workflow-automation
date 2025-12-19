@@ -1,0 +1,17 @@
+Product ID, Product Name , Category , Price , Stock Quantity, Launch Date, Discount
+101, Widget A, Electronics, 25.5, 100, 2025-01-15, 5
+102, Widget B, Electronics, , 50, 2025-02-20, 
+103, Gizmo X, Home , 15.0, , 2025-03-05, 0
+104, Widget A, Electronics, 25.5, 100, 2025-01-15, 5
+105, Gadget Y, , 30.0, 25, , 
+106, Gizmo Z, Home, , , 2025-04-10, 10
+107, Gadget Y, , 30.0, 25, , 
+108, Widget C, Electronics, 20.0, 0, 2025-05-01, 
+109, Widget D, Electronics, 22.5, 10, 2025-06-15, 2
+110, Gizmo X, Home , 15.0, , , 
+111, Widget E, Electronics, -5.0, -10, 2025-07-01, 
+112, Gizmo Y, Home, 18.0, 15, 2025-08-01, 5
+113, Gadget Z, Outdoor, , 20, 2025-09-10, 0
+114, Widget F, Electronics, 27.5, , , 
+115, Gizmo W, Home, 0, 0, 2025-10-20, 0
+116, Widget G, Electronics, 25.0, 50, 2025-11-01, 5
